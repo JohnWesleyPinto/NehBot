@@ -66,4 +66,4 @@ const verificarEventos = setInterval(() => {
     }
 }, 30 * 60 * 1000); // 30 minutos
 
-client.login('MTIwMzAxNTY3MDMwNTEyODUzMQ.GgrLjl._84LztQn3p9ox0fPrONxAKEihnKA2KeDOvXCng'); // Substitua pelo seu token de bot
+client.login(''); // Substitua pelo seu token de bot
